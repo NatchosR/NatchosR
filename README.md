@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+I am Master Student in Data Science and Applied Information at HSLU (Swiss University). 
+
+I complete several fun and creative projects:
+- Data Base Management -> Restaurant Reviews in the USA :fork_and_knife:
+- Data Pipelines/Platforms -> Wildfires in California :fire:
+- Machine Learning -> ML in Speed Dating :couplekiss:
+- Deep Learning -> Recycling waste :recycle:
+
+And more is about to come, as I am looking for a master thesis :smirk:
 <!--
 **NatchosR/NatchosR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
