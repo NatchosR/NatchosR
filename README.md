@@ -8,7 +8,7 @@ I complete several fun and creative projects:
 - Machine Learning -> ML in Speed Dating :couplekiss:
 - Deep Learning -> Recycling waste :recycle:
 
-And more is about to come, as I am looking for a master thesis :smirk:
+And more is about to come, as I am looking for a Master Thesis :mortar_board:
 <!--
 **NatchosR/NatchosR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
