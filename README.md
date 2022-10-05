@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Master Student in Data Science and Applied Information at HSLU (Swiss University). 
+I am Master Student in Data Science and Applied Information at HSLU (Swiss University), exploring the Data Science universe 🌌
 
 I complete several fun and creative projects:
 - Data Base Management -> Restaurant Reviews in the USA :fork_and_knife:
