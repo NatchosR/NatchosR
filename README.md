@@ -28,7 +28,7 @@ I build a full-stack Environment Information System (EIS), from Data Acquisition
 
 We have gained hands-on experience on multiple filed of Data Science, such as Data Engineering, Machine Learning, Database Managment and benefit from several Data Science tool such as Tableau Software, AWS, Azure 
 
-* [Wildfires in California]() :fire: #DataLake #DataEngineering
+* [Wildfires in California](https://github.com/NatchosR/DataLake_Wildfires_California?tab=readme-ov-file) :fire: #DataLake #DataEngineering
 * [Food Loss and Waste in Africa]() 🌍 #DataVisualization #DataAnalysis
 * [Restaurant Reviews in USA]() :fork_and_knife: #DatabaseManagement #DataLake
 * [Recycling waste]() :recycle: #DeepLearning #MaskRCNN
