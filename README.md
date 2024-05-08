@@ -32,7 +32,7 @@ We have gained hands-on experience on multiple filed of Data Science, such as Da
 * [Wildfires in California](https://github.com/NatchosR/DataLake_Wildfires_California?tab=readme-ov-file) :fire: #DataLake #DataEngineering
 * [Food Loss and Waste in Africa]() 🌍 #DataVisualization #DataAnalysis
 * [Restaurant Reviews in USA](https://github.com/NatchosR/Restaurants-Database-in-the-US) :fork_and_knife: #DatabaseManagement #DataLake
-* [ML in Speed Dating]() 💌 #MachineLearning #R
+* [ML in Speed Dating](https://github.com/NatchosR/ML---Speed-Dating) 💌 #MachineLearning #R
 
 ### 🙆 Personal Project
 > *Explore Spatial Data and opportunities to contribute in transitioning in a sustainable agriculture*
