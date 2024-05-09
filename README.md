@@ -30,7 +30,7 @@ We have gained hands-on experience on multiple filed of Data Science, such as Da
 
 * [Deep Recycling](https://github.com/NatchosR/Deep-Recycling/blob/main/README.md) :recycle: #DeepLearning #MaskRCNN
 * [Wildfires in California](https://github.com/NatchosR/DataLake_Wildfires_California?tab=readme-ov-file) :fire: #DataLake #DataEngineering
-* [Food Loss and Waste in Africa]() 🌍 #DataVisualization #DataAnalysis
+* [Food Loss and Waste in Africa](https://github.com/NatchosR/DVN-FoodLoss/blob/main/README.md) 🌍 #DataVisualization #DataAnalysis
 * [Restaurant Reviews in USA](https://github.com/NatchosR/Restaurants-Database-in-the-US) :fork_and_knife: #DatabaseManagement #DataLake
 * [ML in Speed Dating](https://github.com/NatchosR/ML---Speed-Dating) 💌 #MachineLearning #R
 
