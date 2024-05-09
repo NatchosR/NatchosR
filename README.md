@@ -39,7 +39,7 @@ We have gained hands-on experience on multiple filed of Data Science, such as Da
 
 Seeking to merge my passion for Sustainable Agriculture and Data Science, lately I am exploring the power of Spatial Data, notably with QGIS. Here are some projects in that direction:
 
-* [Open Source Interactive Map]() 🗺️ #QGIS
+* [Open Source Interactive Map](https://github.com/NatchosR/US-Sunlight-Open-Source-Web-Map/tree/main) 🗺️ #QGIS
 
 
 <!--
