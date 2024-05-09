@@ -21,7 +21,7 @@ Here in my GitHub profile, you will find my **Master Thesis Project** as well as
 
 I build a full-stack Environment Information System (EIS), from Data Acquisition with hardware monitoring system to Data Visualization on Tableau Software, by hosting and processing data on Amazon Web Service (AWS). The objective was to provide the environmental footprint of an indoor vertical farm using close-loop irrigation system, artificial lightning system and verticallity, evaluating the farm sustainablility on water, electrical and land footprint.  
 
-*[Find more here]()*
+*[Find more here](https://github.com/NatchosR/EIS/blob/main/README.md)*
 
 ### 🔬 Academic Project
 > *Hochschule Luzern (HSLU) pratical approach and data science interdisciplinarity*
