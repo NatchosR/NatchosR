@@ -37,8 +37,9 @@ We have gained hands-on experience on multiple filed of Data Science, such as Da
 ### 🙆 Personal Project
 > *Explore Spatial Data and opportunities to contribute in transitioning in a sustainable agriculture*
 
-Seeking to merge my passion for Sustainable Agriculture and Data Science, lately I am exploring the power of Spatial Data, notably with QGIS. Here are some projects in that direction:
+Seeking to merge my passion for Sustainable Agriculture and Data Science, lately I have been exploring the power of Spatial Data with QGIS. Here are some projects in that direction:
 
+* [Spatial analysis of NDVI evolution using QGIS for agroforestry implementation](https://github.com/NatchosR/Triibo-NDVI) 🌎 #QGIS #NDVI
 * [Open Source Interactive Map](https://github.com/NatchosR/US-Sunlight-Open-Source-Web-Map/tree/main) 🗺️ #QGIS
 
 
